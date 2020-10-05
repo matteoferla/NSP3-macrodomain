@@ -9,7 +9,8 @@ Pairwise permutations of Diamond and UCSF structures only, ribo-ADP is absent (_
 Of the 49,506 permutations, 21,059 were successful.
 
 * These were whole hits, not decomposed —this was tried, but results in mostly linked fragments, which I am told is boring.
-* A new field is present in the table `N_`
+* A new field is present in the table `N_diff_atoms`, this is the difference in number of atoms between the merger and the
+sum of the hits —negative is a 
 
 
 The settings were
