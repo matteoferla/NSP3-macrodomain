@@ -14,6 +14,10 @@ sum of the hits —negative is more atoms are present in the merger than the hit
 atom positions were merged.
 * hits with the closest atoms farther than 5 Å were rejected
 
+## To do
+
+Michelanglo works with known warheads, therefore mac-x0570 fails. Fixing now.
+
 ## Ribo-ADP
 The native product is present in several structures. 
 
